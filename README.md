@@ -10,7 +10,7 @@
 
 ## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,mysql,laravel,react,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
