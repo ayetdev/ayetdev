@@ -2,10 +2,6 @@
 
 **`Student | Full-Stack Developer`**
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=ayetdev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ## 👋 About Me
 
  <img align="right" height="110" width="150" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif"/>
@@ -71,4 +67,4 @@
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ *Thanks for visiting my GitHub profile!* 
