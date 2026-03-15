@@ -4,21 +4,13 @@
 ## About Me
 - 🎓 Information Systems / IT Student at ITB STIKOM Bali
 - 💻 Interested in Software Development, Databases, and Web Systems
-- 🧠 Currently learning Java, PHP, and Object-Oriented Programming
 - 📚 Building projects to improve programming and system design skills
-- 🎮 Gaming enthusiast and content creator on YouTube
 
 ---
 
 ## Skill Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
-
-**Also learning:**  
-- Database Design (ERD)  
-- Object-Oriented Programming  
-- Web Development with PHP & MySQL  
-- Basic System Analysis and Design
 
 ---
 
