@@ -1,5 +1,5 @@
 # 👨‍💻 Ayet Nugraha
-**`Student | Aspiring Software Developer`**
+**`Student | Full-Stack Developer`**
 
 ## About Me
 - 🎓 Information Systems / IT Student at ITB STIKOM Bali
