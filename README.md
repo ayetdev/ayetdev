@@ -12,7 +12,7 @@
 
 ## Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,html,css,mysql,git,github,vscode&theme=dark)](https://skillicons.dev)
 
 **Also learning:**  
 - Database Design (ERD)  
@@ -50,7 +50,7 @@
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayetdev&show_icons=true&theme=tokyonight)
 
 ---
 
