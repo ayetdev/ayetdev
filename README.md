@@ -45,9 +45,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayetdev&show_icons=true&theme=tokyonight)
 
 ---
-
-## Connect With Me
-
-- 📧 Email: emailkamu@example.com
-- 💼 LinkedIn: https://linkedin.com/in/linkedinmu
-- 🎥 YouTube: link channel youtube kamu
